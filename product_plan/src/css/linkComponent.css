@@ -1,0 +1,5 @@
+.navA ~ a:active{ 
+    position: relative;
+	border-bottom: 3px soild blue;
+	display: block;
+}

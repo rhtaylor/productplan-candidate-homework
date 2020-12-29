@@ -1,0 +1,8 @@
+.lanecontrol{
+    background-color: white;
+    height: 80em;
+    width: 8em; 
+    
+    position: absolute;
+    border: black;
+}
